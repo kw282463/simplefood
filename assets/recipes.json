@@ -1,0 +1,119 @@
+[
+    {
+        "id": "1",
+        "name": "意大利肉酱面",
+        "description": "经典意大利肉酱搭配意面",
+        "imageUrl": "assets/images/spaghetti.png",
+        "ingredients": ["意大利面", "牛肉末", "洋葱", "番茄酱", "红酒"],
+        "steps": ["按照包装说明煮意大利面。", "将牛肉末和洋葱炒至褐色。", "加入番茄酱和红酒，炖煮1小时。", "与煮好的意面混合后上桌。"],
+        "nutrition": {
+            "calories": 650,
+            "protein": 35,
+            "prepTime": 60
+        }
+    },
+    {
+        "id": "2",
+        "name": "帕尔马干酪鸡肉",
+        "description": "面包屑炸鸡胸肉，配以番茄酱和马苏里拉奶酪",
+        "imageUrl": "assets/images/chicken.png",
+        "ingredients": ["鸡胸肉", "面包屑", "帕尔马干酪", "番茄酱", "马苏里拉奶酪"],
+        "steps": ["用面包屑包裹鸡胸肉。", "煎至金黄色。", "顶部放上番茄酱和马苏里拉奶酪。", "烘烤至奶酪融化。"],
+        "nutrition": {
+            "calories": 550,
+            "protein": 45,
+            "prepTime": 30
+        }
+    },
+    {
+        "id": "3",
+        "name": "凯撒沙拉",
+        "description": "罗马生菜搭配奶油凯撒酱、面包丁和帕尔马干酪",
+        "imageUrl": "assets/images/salad.png",
+        "ingredients": ["罗马生菜", "凯撒酱", "面包丁", "帕尔马干酪"],
+        "steps": ["切碎罗马生菜。", "与凯撒酱拌匀。", "撒上面包丁和帕尔马干酪。"],
+        "nutrition": {
+            "calories": 250,
+            "protein": 10,
+            "prepTime": 10
+        }
+    },
+    {
+        "id": "4",
+        "name": "墨西哥卷饼",
+        "description": "软玉米饼，内填调味牛肉末、生菜、奶酪和莎莎酱",
+        "imageUrl": "assets/images/tacos.png",
+        "ingredients": ["玉米饼", "牛肉末", "生菜", "奶酪", "莎莎酱"],
+        "steps": ["用墨西哥卷饼调味料烹饪牛肉末。", "加热玉米饼。", "填入牛肉、生菜、奶酪和莎莎酱。"],
+        "nutrition": {
+            "calories": 500,
+            "protein": 20,
+            "prepTime": 20
+        }
+    },
+    {
+        "id": "5",
+        "name": "阿尔弗雷多意面",
+        "description": "意大利宽面与浓郁的奶油帕尔马干酪酱拌匀",
+        "imageUrl": "assets/images/alfredo.png",
+        "ingredients": ["意大利宽面", "黄油", "奶油", "帕尔马干酪"],
+        "steps": ["按照包装说明煮意大利面。", "在平底锅中融化黄油。", "加入奶油和帕尔马干酪，煮至浓稠。", "将意面与酱汁拌匀。"],
+        "nutrition": {
+            "calories": 800,
+            "protein": 15,
+            "prepTime": 15
+        }
+    },
+    {
+        "id": "6",
+        "name": "奶酪披萨",
+        "description": "脆皮配以番茄酱和马苏里拉奶酪",
+        "imageUrl": "assets/images/pizza.png",
+        "ingredients": ["披萨面团", "番茄酱", "马苏里拉奶酪"],
+        "steps": ["将面团擀成圆形。", "涂上酱汁和奶酪。", "烘烤至外皮酥脆，奶酪融化。"],
+        "nutrition": {
+            "calories": 700,
+            "protein": 20,
+            "prepTime": 40
+        }
+    },
+    {
+        "id": "7",
+        "name": "汉堡包",
+        "description": "多汁的牛肉饼，配以生菜、番茄、洋葱和奶酪，夹在面包中",
+        "imageUrl": "assets/images/burger.png",
+        "ingredients": ["牛肉末", "汉堡面包", "生菜", "番茄", "洋葱", "奶酪"],
+        "steps": ["将牛肉末制成肉饼并烤制。", "烤面包。", "将肉饼放在面包上，再放上生菜、番茄、洋葱和奶酪。"],
+        "nutrition": {
+            "calories": 650,
+            "protein": 25,
+            "prepTime": 15
+        }
+    },
+    {
+        "id": "8",
+        "name": "巧克力曲奇",
+        "description": "充满巧克力块的耐嚼饼干",
+        "imageUrl": "assets/images/cookies.png",
+        "ingredients": ["面粉", "黄油", "糖", "鸡蛋", "巧克力块"],
+        "steps": ["将黄油和糖打发。", "加入鸡蛋搅拌。", "搅拌加入面粉和巧克力块。", "舀出面团并烘烤。"],
+        "nutrition": {
+            "calories": 200,
+            "protein": 3,
+            "prepTime": 30
+        }
+    },
+    {
+        "id": "9",
+        "name": "鸡肉炒饭",
+        "description": "米饭与鸡肉、蔬菜和鸡蛋一起炒制",
+        "imageUrl": "assets/images/rice.png",
+        "ingredients": ["米饭", "鸡肉", "蔬菜", "鸡蛋", "酱油"],
+        "steps": ["煮饭。", "翻炒鸡肉和蔬菜。", "加入米饭继续翻炒。", "打散鸡蛋并混合。", "用酱油调味。"],
+        "nutrition": {
+            "calories": 450,
+            "protein": 25,
+            "prepTime": 30
+        }
+    }
+]
